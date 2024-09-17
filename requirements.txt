@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+mariadb
+asyncmy
+aiomysql
+python-dotenv
+minio
+pymysql
+alembic
